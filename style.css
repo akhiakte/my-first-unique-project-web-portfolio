@@ -1,0 +1,13 @@
+h1{
+    font-size: 50px;
+    font-family: poppins,sans-serif;
+}
+.name-highlight{
+    color: blueviolet;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
